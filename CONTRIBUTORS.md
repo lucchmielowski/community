@@ -37,3 +37,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Daksh Pathak          | [@dakshhhhh16](https://github.com/dakshhhhh16)             |
 | Kartik Angiras        | [@kartikangiras](https://github.com/kartikangiras)         |
 | Ville Vesilehto       | [@thevilledev](https://github.com/thevilledev)             |
+| Sargam Puram          | [@SargamPuram](https://github.com/SargamPuram)             |

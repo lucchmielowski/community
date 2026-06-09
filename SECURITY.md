@@ -2,6 +2,20 @@
 
 The Kyverno community has adopted this security disclosure and response policy to ensure we responsibly handle critical issues.
 
+## Security Response Team
+
+The security response team is responsible for triaging and coordinating fixes for reported vulnerabilities. Team members represent different organizations to ensure independent oversight.
+
+| Name | GitHub | Affiliation |
+|------|--------|-------------|
+| Jim Bugwadia | [@JimBugwadia](https://github.com/JimBugwadia) | Nirmata |
+| Shuting Zhao | [@realshuting](https://github.com/realshuting) | Nirmata |
+| Mariam Fahmy | [@MariamFahmy98](https://github.com/MariamFahmy98) | Cloudflare |
+
+All team members are subscribed to `kyverno-security@googlegroups.com`. Reports sent to that address reach the full team simultaneously.
+
+When a report is received, one team member acts as the coordinator: they acknowledge the report, assess severity, and route the issue to the maintainer best placed to fix it based on the affected component. There is no fixed rotation; the coordinator for a given report is whoever picks it up first from the shared inbox.
+
 ## Security bulletins
 
 For information regarding the security of this project please join our [Slack channel](https://slack.k8s.io/#kyverno).
